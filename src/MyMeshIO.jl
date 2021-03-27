@@ -1,5 +1,5 @@
 module MyMeshIO
 
-# Write your package code here.
+f(x) = 2x
 
 end
